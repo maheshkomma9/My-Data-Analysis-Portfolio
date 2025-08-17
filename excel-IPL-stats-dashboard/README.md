@@ -30,4 +30,4 @@ Scoring trends with average vs maximum runs at venues.
 
 Example:
 
-![Dashboard Screenshot](.excel-IPL-stats-dashboard/Screenshot 2025-08-17 at 13.06.25.jpg)
+![Dashboard Screenshot](.IPL_Dash.jpg)
