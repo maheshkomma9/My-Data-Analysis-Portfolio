@@ -7,7 +7,7 @@ I enjoy working with data to uncover insights, build dashboards, and support dec
 
 This portfolio highlights my projects in **Excel, SQL, and Power BI**, showcasing my ability to clean, analyze, and visualize data effectively.  
   
-## 🏏 IPL Stats Dashboard
+## 🏏 [IPL Stats Dashboard](./excel-IPL-stats-dashboard/README.md)
 
 I created a dashboard using **Excel** where I:
 
