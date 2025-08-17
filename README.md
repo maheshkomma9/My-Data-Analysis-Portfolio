@@ -20,7 +20,7 @@ I created a dashboard using **Excel** where I:
 ![IPL Dashboard](./excel-IPL-stats-dashboard/IPL_Dash.jpg)
 
 
-## 🎓 [Education Loan Dashboard](./My_Education_loan_dashboard/README.md)
+## 🎓 [Education Loan Dashboard](./Education_Loan_Dashboard/README.md)
 An **Excel-based Loan Analysis Dashboard** with **Due Check** and **Loan EMI Calculator**.  
 Features:  
 - Enter a date to calculate **interest payable**  
