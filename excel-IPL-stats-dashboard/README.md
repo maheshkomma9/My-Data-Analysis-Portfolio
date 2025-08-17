@@ -30,4 +30,4 @@ Scoring trends with average vs maximum runs at venues.
 
 Example:
 
-![Dashboard Screenshot](.IPL_Dash.jpg)
+![Dashboard Screenshot](..IPL_Dash.jpg)
