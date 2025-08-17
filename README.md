@@ -1,5 +1,5 @@
 
-# 📊 My Data Analysis Portfolio
+
 # 📊 My Data Analysis Portfolio
 
 👋 Hi, I'm **Mahesh** – a recent Master's graduate in Data Science with a strong interest in **Data Analysis and Business Intelligence**.  
