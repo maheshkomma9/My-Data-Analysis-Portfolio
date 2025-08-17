@@ -25,3 +25,9 @@ Data Analysis → Aggregation, filtering, KPI calculations
 Teams’ overall tournament performance (runs, wickets, results).
 Host venues ranked by the number of matches.
 Scoring trends with average vs maximum runs at venues.
+## 📊 Dashboard Preview
+
+
+Example:
+```markdown
+![Dashboard Screenshot]()
