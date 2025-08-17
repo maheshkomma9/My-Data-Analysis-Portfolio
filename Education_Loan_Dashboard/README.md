@@ -32,5 +32,5 @@ This project is an **Excel-based Loan Analysis Dashboard** designed to simplify 
 
 ## 📷 Dashboard Preview
 
-![Education_Loan_Dashboard](./Loan Dashboard scn.jpg)
+![Education_Loan_Dashboard](./Loan%20Dashboard%20scn.jpg)
 
