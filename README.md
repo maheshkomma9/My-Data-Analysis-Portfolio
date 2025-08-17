@@ -18,3 +18,14 @@ I created a dashboard using **Excel** where I:
 - Created a plot showing **average and maximum scores**.  
 
 ![IPL Dashboard](./excel-IPL-stats-dashboard/IPL_Dash.jpg)
+
+
+## 🎓 [Education Loan Dashboard](./My_Education_loan_dashboard/README.md)
+An **Excel-based Loan Analysis Dashboard** with **Due Check** and **Loan EMI Calculator**.  
+Features:  
+- Enter a date to calculate **interest payable**  
+- EMI calculator (Principal, Rate, Tenure → Monthly EMI, Total Repayment, Total Interest)  
+- Loan overview with pending repayments and interest  
+- Visual loan breakdown with Excel charts  
+
+![Education Loan Dashboard](./Education_Loan_Dashboard/Loan%20Dashboard%20scn.jpg)
