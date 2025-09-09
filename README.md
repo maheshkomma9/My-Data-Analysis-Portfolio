@@ -31,7 +31,7 @@ Features:
 ![Education Loan Dashboard](./Education_Loan_Dashboard/Loan%20Dashboard%20scn.jpg)
 
 
-### 1. [Uber Ride Analysis (SQL)]
+### 1. [Uber Ride Analysis (SQL)](./SQL_Uber_data_analysis)
   
 
 This project analyzes Uber ride data using SQL. The dataset contains booking details such as vehicle type, booking value, ride distance, ratings, payment methods, and booking status.
