@@ -29,3 +29,27 @@ Features:
 - Visual loan breakdown with Excel charts  
 
 ![Education Loan Dashboard](./Education_Loan_Dashboard/Loan%20Dashboard%20scn.jpg)
+
+
+### 1. [Uber Ride Analysis (SQL)]
+  
+
+This project analyzes Uber ride data using SQL. The dataset contains booking details such as vehicle type, booking value, ride distance, ratings, payment methods, and booking status.
+
+**Key Queries & Insights:**
+- Completed vs cancelled rides  
+- Average booking value per payment method  
+- Top 5 customers by spend  
+- Success rate per vehicle type  
+- Peak booking hours  
+- Moving averages and top-ranked customers per vehicle type  
+
+**SQL Features Used:**
+- Subqueries and nested queries  
+- Window functions: `ROW_NUMBER()`, `RANK()`, `AVG() OVER()`  
+- CTEs (Common Table Expressions) for multi-step analysis  
+- Aggregations: `SUM()`, `COUNT()`, `AVG()`  
+- Conditional aggregation: `COUNT(CASE WHEN ...)`  
+
+**[Full SQL Code & Queries](./SQL_Uber_data_analysis)**
+
