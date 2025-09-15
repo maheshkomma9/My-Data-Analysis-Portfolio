@@ -63,7 +63,7 @@ Columns include:
 ---
 
 ## 📌 Full Code
-
+'''
 #Create Database & Table
 CREATE DATABASE HR_database;
 DROP TABLE IF EXISTS hr_data;
@@ -203,4 +203,4 @@ ORDER BY Age DESC;
 SELECT Employee_ID, Engagement_Score, Satisfaction_Score
 FROM hr_data
 ORDER BY Engagement_Score DESC
-LIMIT 5;
+LIMIT 5;'''
