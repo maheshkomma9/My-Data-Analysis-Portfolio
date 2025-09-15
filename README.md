@@ -53,3 +53,25 @@ This project analyzes Uber ride data using SQL. The dataset contains booking det
 
 **[Full SQL Code & Queries](./SQL_Uber_data_analysis)**
 
+
+### 📌 HR Data Analysis (SQL)
+Analyzed HR employee dataset covering **demographics, performance, engagement, and training programs**.  
+
+**Key Queries & Insights**  
+- Active employees, unique job titles, employee status distribution  
+- Workforce demographics (age, gender, race, marital status)  
+- Engagement and satisfaction across business units  
+- Employees exceeding performance expectations  
+- Training cost analysis (top spenders, program success rates)  
+- Running totals, cumulative averages, and ranking by window functions  
+- Workforce analytics (retirement risk, employee tenure)  
+
+**SQL Features Used**  
+- Aggregations: `SUM`, `AVG`, `COUNT`, `ROUND`  
+- Subqueries & Correlated Subqueries  
+- Window Functions: `ROW_NUMBER()`, `RANK()`, `SUM() OVER()`, `AVG() OVER()`  
+- CTEs (Common Table Expressions)  
+- Conditional Aggregation with `CASE WHEN`  
+
+📂 Project: [HR Data Analysis SQL](./HR_Data_Analysis_Sql)
+
