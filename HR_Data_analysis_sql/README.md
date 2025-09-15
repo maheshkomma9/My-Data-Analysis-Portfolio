@@ -62,19 +62,8 @@ Columns include:
 
 ---
 
-## 📌 Example Query – Top 3 Employees per Department (Training Cost)
-```sql
-WITH ranked_training AS (
-    SELECT Employee_ID, DepartmentType, Training_Program_Name, Training_Cost,
-           ROW_NUMBER() OVER (PARTITION BY DepartmentType ORDER BY Training_Cost DESC) AS rn
-    FROM hr_data
-)
-SELECT Employee_ID, DepartmentType, Training_Program_Name, Training_Cost, rn
-FROM ranked_training
-WHERE rn <= 3
-ORDER BY DepartmentType, rn;
+## 📌 Full Code
 
-Full code
 #Create Database & Table
 CREATE DATABASE HR_database;
 DROP TABLE IF EXISTS hr_data;
