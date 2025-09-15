@@ -54,7 +54,7 @@ This project analyzes Uber ride data using SQL. The dataset contains booking det
 **[Full SQL Code & Queries](./SQL_Uber_data_analysis)**
 
 
-### 📌 HR Data Analysis (SQL)
+### 📌 [HR Data Analysis (SQL)](./HR_Data_analysis_sql)
 Analyzed HR employee dataset covering **demographics, performance, engagement, and training programs**.  
 
 **Key Queries & Insights**  
