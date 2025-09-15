@@ -63,7 +63,7 @@ Columns include:
 ---
 
 ## 📌 Full Code
-'''
+```
 #Create Database & Table
 CREATE DATABASE HR_database;
 DROP TABLE IF EXISTS hr_data;
