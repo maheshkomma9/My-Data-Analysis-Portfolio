@@ -73,5 +73,5 @@ Analyzed HR employee dataset covering **demographics, performance, engagement, a
 - CTEs (Common Table Expressions)  
 - Conditional Aggregation with `CASE WHEN`  
 
-📂 Project: [HR Data Analysis SQL](./HR_Data_Analysis_Sql)
+📂 Project: [HR Data Analysis SQL](./HR_Data_analysis_sql)
 
