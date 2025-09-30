@@ -35,7 +35,7 @@ The goal of the project is to provide actionable insights into sales performance
 ---
 
 ## 📸 Dashboard Preview  
-![Cafe Sales Dashboard](cafedb.png)
+![Cafe Sales Dashboard](cafedb.jpg)
 
 ---
 
