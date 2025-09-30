@@ -75,7 +75,7 @@ Analyzed HR employee dataset covering **demographics, performance, engagement, a
 
 📂 Project: [HR Data Analysis SQL](./HR_Data_analysis_sql)
 
-### ☕ Café Sales Dashboard(./Cafe_Sales_Dashboard/README.md)
+### ☕ [Café Sales Dashboard](./Cafe_Sales_Dashboard/README.md)
 
 An interactive Tableau dashboard analyzing café sales across **3 locations**.  
 
@@ -87,5 +87,5 @@ An interactive Tableau dashboard analyzing café sales across **3 locations**.
 - Best sellers per category  
 
 **📸 Dashboard Preview**:  
-![Cafe_Sales_Dashboard](cafedb.jpg)
+![Cafe_Sales_Dashboard](./Cafe_Sales_Dashboard/cafedb.jpg)
 
