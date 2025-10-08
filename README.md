@@ -128,6 +128,6 @@ This project demonstrates my **SQL and Data Analysis skills** using a banking da
 - Present clear and visual insights to stakeholders.
 ## ER Diagram
 
-[ER_Diagram](./Bank_anomaly_data_analysis/ER_Diagram.jpg)
+[Bank Database Analysis](./Bank_anomaly_data_analysis/ER_Diagram.jpg)
 
-[Full Code](./Bank_anomaly_data_analysis/Full Code)
+[Full Code](./Bank_anomaly_data_analysis/README.md)
