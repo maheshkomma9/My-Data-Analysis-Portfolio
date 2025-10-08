@@ -126,8 +126,8 @@ This project demonstrates my **SQL and Data Analysis skills** using a banking da
 - Aggregate and rank data using **window functions**.
 - Combine multiple data sources with **joins**.
 - Present clear and visual insights to stakeholders.
-## ER Diagram
 
-[Bank Database Analysis](./Bank_anomaly_data_analysis/ER_Diagram.jpg)
+## ER Diagram
+![Bank Database Analysis](./Bank_anomaly_data_analysis/ER_Diagram.jpg)
 
 [Full Code](./Bank_anomaly_data_analysis/README.md)
