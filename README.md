@@ -89,3 +89,43 @@ An interactive Tableau dashboard analyzing café sales across **3 locations**.
 **📸 Dashboard Preview**:  
 ![Cafe_Sales_Dashboard](./Cafe_Sales_Dashboard/cafedb.jpg)
 
+# 📊 [Bank Database Analysis Portfolio](./Bank_anomaly_data_analysis/README.md)
+
+## Project Summary
+This project demonstrates my **SQL and Data Analysis skills** using a banking dataset. It covers **customer insights, account and transaction analytics, loans, credit cards, and feedback resolution**.
+
+---
+
+## Key Highlights
+
+- **Database Skills:** Created a fully normalized banking database with Customers, Accounts, Transactions, Loans, Credit Cards, and Feedback tables.
+- **SQL Proficiency:** 
+  - Aggregations (`SUM`, `COUNT`, `AVG`)
+  - Window Functions (`RANK()`, `SUM() OVER()`)
+  - CTEs for modular queries
+  - Joins (`INNER`, `LEFT`)
+- **Analysis Insights:**
+  - Customers with highest transactions and anomalies
+  - Branches with most anomalies
+  - Average feedback resolution time by branch
+  - Credit card utilization & loan comparisons
+- **Problem Solving:** Used conditional logic and anomaly detection to extract meaningful insights.
+- **Tools Used:** MySQL, SQL Workbench
+
+---
+
+## Why This Project?
+- Demonstrates the ability to **extract actionable insights** from raw data.
+- Highlights **SQL expertise** and understanding of financial data.
+- Shows capability to **prepare data for dashboards** and reporting.
+
+---
+
+## Key Takeaways for Portfolio
+- Use **CTEs** for readable queries.
+- Aggregate and rank data using **window functions**.
+- Combine multiple data sources with **joins**.
+- Present clear and visual insights to stakeholders.
+## ER Diagram
+
+
