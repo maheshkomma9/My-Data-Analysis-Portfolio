@@ -89,7 +89,7 @@ An interactive Tableau dashboard analyzing café sales across **3 locations**.
 **📸 Dashboard Preview**:  
 ![Cafe_Sales_Dashboard](./Cafe_Sales_Dashboard/cafedb.jpg)
 
-# 📊 [Bank Database Analysis Portfolio](./Bank_anomaly_data_analysis/README.md)
+# 📊 [Bank Database Analysis](./Bank_anomaly_data_analysis/README.md)
 
 ## Project Summary
 This project demonstrates my **SQL and Data Analysis skills** using a banking dataset. It covers **customer insights, account and transaction analytics, loans, credit cards, and feedback resolution**.
@@ -128,4 +128,6 @@ This project demonstrates my **SQL and Data Analysis skills** using a banking da
 - Present clear and visual insights to stakeholders.
 ## ER Diagram
 
+[ER_Diagram](./Bank_anomaly_data_analysis/ER_Diagram.jpg)
 
+[Full Code](./Bank_anomaly_data_analysis/Full Code)
