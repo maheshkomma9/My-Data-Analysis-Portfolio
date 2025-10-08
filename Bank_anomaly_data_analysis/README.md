@@ -63,7 +63,7 @@ This project is a comprehensive **Banking Database Analysis** using SQL. The dat
 
 ## ER Diagram
 
-
+[/.Bank_anomaly_data_analysis](ER.jpg)
 
 
 ## 📂 Full Code
