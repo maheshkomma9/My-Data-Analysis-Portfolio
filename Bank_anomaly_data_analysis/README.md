@@ -61,6 +61,7 @@ This project is a comprehensive **Banking Database Analysis** using SQL. The dat
 2. Run the provided SQL scripts to create tables and insert data.
 3. Execute the analysis queries sequentially for insights.
 
+## ER Diagram
 
 
 
