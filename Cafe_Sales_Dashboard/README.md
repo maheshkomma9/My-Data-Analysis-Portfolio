@@ -1,4 +1,4 @@
-# ☕ Café Sales Dashboard (Tableau)
+# ☕ Café Sales Dashboard 
 
 ## 📌 Project Overview  
 This project presents an **interactive Tableau dashboard** designed to analyze café sales data across **three locations**.  
