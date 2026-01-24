@@ -33,7 +33,7 @@ The Power BI report consists of **four interactive pages**:
 **Key Insight:** SLA breaches increased sharply during the crisis, directly correlating with higher churn.
 
 ---
-
+![Crisis Analysis](scn_shots/crisis_analysis.png)
 ### 2️⃣ Customer Segmentation
 
 * Total customers & churned customers
@@ -47,7 +47,7 @@ The Power BI report consists of **four interactive pages**:
 **Key Insight:** High-volume cities like Bengaluru and Delhi contributed most to churn, making them priority retention targets.
 
 ---
-
+![Crisis Analysis](scn_shots/customer_seg.png)
 ### 3️⃣ Delivery Performance
 
 * Active delivery partners
@@ -60,7 +60,7 @@ The Power BI report consists of **four interactive pages**:
 **Key Insight:** Scooter and bike deliveries accounted for the majority of late deliveries, indicating capacity and routing challenges.
 
 ---
-
+![Crisis Analysis](scn_shots/delivery_performance.png)
 ### 4️⃣ Restaurant Analysis
 
 * Active restaurants and average ratings
@@ -73,6 +73,7 @@ The Power BI report consists of **four interactive pages**:
 **Key Insight:** Despite stable restaurant ratings, operational issues—not food quality—were the primary drivers of churn.
 
 ---
+![Crisis Analysis](scn_shots/restaurants.png)
 # dashboard preview
 ## 🎥 Dashboard Walkthrough
 
