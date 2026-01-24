@@ -73,6 +73,7 @@ The Power BI report consists of **four interactive pages**:
 **Key Insight:** Despite stable restaurant ratings, operational issues—not food quality—were the primary drivers of churn.
 
 ---
+# dashboard preview
 
 ## 🔍 Key Insights Summary
 
