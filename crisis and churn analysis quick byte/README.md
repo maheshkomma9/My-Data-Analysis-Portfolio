@@ -74,6 +74,7 @@ The Power BI report consists of **four interactive pages**:
 
 ---
 # dashboard preview
+[![Dashboard Walkthrough](crisis and churn analysis quick byte/video_presentation/REC-20260122233319 2.mov)
 
 ## 🔍 Key Insights Summary
 
